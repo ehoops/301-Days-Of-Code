@@ -13,3 +13,25 @@ Having a different class tag for every item seems like overkill.  Is there a bet
 
 **Link to work:**
 https://codepen.io/ehoops/pen/VbBqra
+
+
+### Day 2: 5/17/17
+
+**Today's Progress:**
+Workout-maker, can now add exercises to a workout.  Delete exercise button renders but doesn't function yet.  Also did some refactoring.
+
+**Thoughts:**
+Refactoring wasn't as bad as I anticipated.  Yay for modular code.
+
+**Link to work:**
+https://github.com/ehoops/workout-maker/tree/workoutTime
+
+
+### Day : 
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
