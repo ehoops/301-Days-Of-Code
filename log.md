@@ -27,6 +27,26 @@ Refactoring wasn't as bad as I anticipated.  Yay for modular code.
 https://github.com/ehoops/workout-maker/tree/workoutTime
 
 
+### Day 3: 
+
+**Today's Progress:**
+Workout-maker, can now delete exercises.  Started working on exercise descriptions which will display in a tooltip (currently prints to console).
+
+**Thoughts:**
+Need to redeploy to live site.
+
+**Link to work:**
+https://github.com/ehoops/workout-maker
+
+
+### Day 4: 
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
 ### Day : 
 
 **Today's Progress:**
