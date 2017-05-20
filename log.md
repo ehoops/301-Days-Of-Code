@@ -42,6 +42,17 @@ https://github.com/ehoops/workout-maker
 ### Day 4: 
 
 **Today's Progress:**
+Deployed new workout-maker to live site.
+
+**Thoughts:**
+Not exactly coding, but definitely necessary.
+
+**Link to work:**
+workout-maker.ehoops.me
+
+### Day : 
+
+**Today's Progress:**
 
 **Thoughts:**
 
