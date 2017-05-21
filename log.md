@@ -50,13 +50,16 @@ Not exactly coding, but definitely necessary.
 **Link to work:**
 workout-maker.ehoops.me
 
-### Day : 
+### Day 5: 5/20/17 
 
 **Today's Progress:**
+HackerRank algorithms practice
 
 **Thoughts:**
+meh... would rather be making something.
 
 **Link to work:**
+https://www.hackerrank.com/domains/algorithms/warmup
 
 ### Day : 
 
