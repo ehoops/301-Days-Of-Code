@@ -61,6 +61,28 @@ meh... would rather be making something.
 **Link to work:**
 https://www.hackerrank.com/domains/algorithms/warmup
 
+### Day 6: 5/21/17 
+
+**Today's Progress:**
+HackerRank Challenge
+
+**Thoughts:**
+Better time management than the last one.  I need to work on faster algorithm run time.
+
+**Link to work:**
+https://www.hackerrank.com/
+
+### Day 7: 5/21/17
+
+**Today's Progress:**
+Added ReadMe and Contributing pages to workout-maker.  Implemented code review feedback.
+
+**Thoughts:**
+Getting the app running locally again as a test was easier than expected.
+
+**Link to work:**
+https://github.com/ehoops/workout-maker/blob/master/README.md
+
 ### Day : 
 
 **Today's Progress:**
@@ -68,4 +90,3 @@ https://www.hackerrank.com/domains/algorithms/warmup
 **Thoughts:**
 
 **Link to work:**
-
