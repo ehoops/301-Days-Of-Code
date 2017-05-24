@@ -94,6 +94,17 @@ Starting with a pretty basic clock makes progress seem faster.
 **Link to work:**
 https://codepen.io/ehoops/pen/bWzqQd?editors=1111
 
+### Day 9: 5/24/17
+
+**Today's Progress:**
+Workout-maker now shows/hides the exercise description when the name div is entered/left.
+
+**Thoughts:**
+Next step, make it less ugly.
+
+**Link to work:**
+https://github.com/ehoops/workout-maker/tree/exerciseDescriptions
+
 
 ### Day : 
 
