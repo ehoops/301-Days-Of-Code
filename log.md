@@ -72,7 +72,7 @@ Better time management than the last one.  I need to work on faster algorithm ru
 **Link to work:**
 https://www.hackerrank.com/
 
-### Day 7: 5/21/17
+### Day 7: 5/22/17
 
 **Today's Progress:**
 Added ReadMe and Contributing pages to workout-maker.  Implemented code review feedback.
@@ -82,6 +82,18 @@ Getting the app running locally again as a test was easier than expected.
 
 **Link to work:**
 https://github.com/ehoops/workout-maker/blob/master/README.md
+
+### Day 8: 5/23/17
+
+**Today's Progress:**
+Made a clock, following along with JS30.
+
+**Thoughts:**
+Starting with a pretty basic clock makes progress seem faster.
+
+**Link to work:**
+https://codepen.io/ehoops/pen/bWzqQd?editors=1111
+
 
 ### Day : 
 
