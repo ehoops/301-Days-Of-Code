@@ -105,6 +105,17 @@ Next step, make it less ugly.
 **Link to work:**
 https://github.com/ehoops/workout-maker/tree/exerciseDescriptions
 
+### Day 10: 5/25/17 
+
+**Today's Progress:**
+Did some CSS beautification on workout-maker.
+
+**Thoughts:**
+CSS :-/
+
+**Link to work:**
+http://workout-maker.ehoops.me/
+
 
 ### Day : 
 
