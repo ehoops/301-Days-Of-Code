@@ -116,6 +116,16 @@ CSS :-/
 **Link to work:**
 http://workout-maker.ehoops.me/
 
+### Day 11: 5/26/17
+
+**Today's Progress:**
+Connected dog-hikes react app to firebase.  It can read a datapoint from the db, update state on data change and re-render.
+
+**Thoughts:**
+Next step, saving actual data to the db.
+
+**Link to work:**
+https://github.com/ehoops/dog_hikes
 
 ### Day : 
 
