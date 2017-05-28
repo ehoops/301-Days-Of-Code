@@ -127,6 +127,17 @@ Next step, saving actual data to the db.
 **Link to work:**
 https://github.com/ehoops/dog_hikes
 
+### Day 12: 5/27/17
+
+**Today's Progress:**
+Worked on writing to firebase from the dog-hikes page.
+
+**Thoughts:**
+It sort of works, but not tons of progress yet.
+
+**Link to work:**
+https://github.com/ehoops/dog_hikes
+
 ### Day : 
 
 **Today's Progress:**
