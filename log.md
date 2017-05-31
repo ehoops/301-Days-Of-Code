@@ -138,6 +138,40 @@ It sort of works, but not tons of progress yet.
 **Link to work:**
 https://github.com/ehoops/dog_hikes
 
+
+### Day 13: 5/28/17 
+
+**Today's Progress:**
+Read Firebase docs and did some testing.
+
+**Thoughts:**
+Why is saving a string different from saving an object?
+
+**Link to work:**
+
+
+### Day 14: 5/29/17
+
+**Today's Progress:**
+More Firebase debugging.
+
+**Thoughts:**
+Why?...
+
+**Link to work:**
+
+
+### Day 5/30/17: 
+
+**Today's Progress:**
+Made a CSS dog :-)
+
+**Thoughts:**
+Quick break from Firebase. Maybe I will animate it in the future.
+
+**Link to work:**
+https://codepen.io/ehoops/pen/LywpNr
+
 ### Day : 
 
 **Today's Progress:**
