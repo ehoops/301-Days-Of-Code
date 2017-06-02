@@ -161,7 +161,7 @@ Why?...
 **Link to work:**
 
 
-### Day 5/30/17: 
+### Day 15: 5/30/17
 
 **Today's Progress:**
 Made a CSS dog :-)
@@ -172,10 +172,34 @@ Quick break from Firebase. Maybe I will animate it in the future.
 **Link to work:**
 https://codepen.io/ehoops/pen/LywpNr
 
-### Day : 
+### Day 16: 5/31/17 
 
 **Today's Progress:**
+Got Dog Hikes site to push info to firebase.
 
 **Thoughts:**
+Firebase stores arrays as objects.  It doesn't like undefined/null values or empty arrays.  Makes sense.
 
 **Link to work:**
+https://github.com/ehoops/dog_hikes/tree/hikeInput
+
+### Day 17: 6/1/17
+
+**Today's Progress:**
+Watched watch and code and learned more about automated testing and test-driven development.
+
+**Thoughts:**
+Not really coding, but letting it slide this time...
+
+**Link to work:**
+
+### Day 18: 6/2/17 
+
+**Today's Progress:**
+Added react router to Dog Hikes site.  Can switch between adding a hike, a hike list and hike details.  The hike list and details components render placeholder divs for now.
+
+**Thoughts:**
+Spacing is a little weird, need to look at the css again.
+
+**Link to work:**
+https://github.com/ehoops/dog_hikes/tree/addRouting
