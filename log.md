@@ -203,3 +203,15 @@ Spacing is a little weird, need to look at the css again.
 
 **Link to work:**
 https://github.com/ehoops/dog_hikes/tree/addRouting
+
+
+### Day 19-62: 6/12/17 - 8/10/17
+
+**Progress:**
+Work at Dilectus
+
+**Thoughts:**
+Finding a compromise between giving myself credit for coding, but not too much as I have not kept up with logging here.
+
+**Link to work:**
+private repo
